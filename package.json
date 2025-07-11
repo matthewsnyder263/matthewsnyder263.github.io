@@ -1,0 +1,8 @@
+{
+  "name": "matthewsnyder263.github.io",
+  "version": "1.0.0",
+  "description": "Static portfolio website",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
